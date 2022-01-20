@@ -6,7 +6,7 @@ var __commonJS = (callback, module) => () => {
   return module.exports;
 };
 
-let WasmPath = "";
+let WasmPath = "../TR3-pack/THREE/";
 
 // dist/web-ifc.js
 var require_web_ifc = __commonJS((exports, module) => {
